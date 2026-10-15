@@ -1,0 +1,16 @@
+.hero-section {
+    background-image: url("../Images/du-lich-dn-2.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.card-img-custom {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.text-star {
+    color: rgb(12,176,126);
+}
