@@ -1,9 +1,9 @@
 .hero-section {
-    background-image: url("../images/du-lich-dn-2.jpg");
+    background-image:url("../images/du-lich-dn-2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 80vh;
+    min-height: 80vh;
 }
 .card-img-custom {
     height: 200px;
